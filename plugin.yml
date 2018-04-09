@@ -1,0 +1,11 @@
+name: EminentRPGPlugin
+main: com.github.eminentrpg.EminentRPG
+version: 1.0
+author: KindredsRespite
+commands:
+    eminent:
+        description: EminentRPG main command.
+        usage: Type /eminent
+    skill:
+        description: Check your skill level.
+        usage: Type /skill *skill*
